@@ -1,6 +1,6 @@
-### ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FHaD1&psig=AOvVaw2vCPp1NuF_ALeGonkUQEb0&ust=1613102542270000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDKqrP54O4CFQAAAAAdAAAAABAI.gif) 
-### Hi there 👋! I am Harman Kibue a backend and mobile engineer based in Nairobi kenya.
-### I am more than willing to collaborate in open source projects or any idea.
+### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif) 
+### Hi there 👋. I am Harman Kibue a backend(Django/ Django Rest) and mobile(Flutter) engineer based in Nairobi kenya.
+### I am more than willing to collaborate in a team for an open source projects or any idea that changes the world one line of code at a time.
 
 <!--
 **harmannkibue/harmannkibue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
