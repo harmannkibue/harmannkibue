@@ -1,5 +1,6 @@
 ### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif) 
-### Hi there 👋. I am Harman Kibue a backend(Django/ Django Rest) and mobile(Flutter) engineer based in Nairobi kenya.
+### Hi there 👋. 
+### I am Harman Kibue a Dev Ops, backend(Django/ Django Rest) and mobile(Flutter) engineer based in Nairobi kenya.
 ### I am more than willing to collaborate in a team for an open source projects or any idea that changes the world one line of code at a time.
 
 <!--
