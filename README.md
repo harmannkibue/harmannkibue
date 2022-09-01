@@ -1,6 +1,6 @@
 ### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif) 
 ### Hi there 👋. 
-### I am Harman Kibue.I am a backend engineer mainly interested in Golang(Gin) and python(Django/ Django Rest).I am based in Nairobi kenya.
+### I am Harman Kibue, a backend engineer mainly interested in Golang(Gin) and python(Django/ Django Rest) and some dev-ops automation(learning by failing).I am based in Nairobi kenya.
 ### I am more than willing to collaborate in any open source project or any idea that changes the world one line of code at a time.
 ## I also write about golang and how I use it's features and libraries in my day to day software development.Lets link up.
 ## Linkedin: www.linkedin.com/in/harmann-kibue
