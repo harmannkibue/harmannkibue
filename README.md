@@ -1,4 +1,6 @@
-### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/nGMnDqebzDcfm/source.gif" />
+</p>
 
 ### 👋 Hi, I'm Harman Kibue
 
