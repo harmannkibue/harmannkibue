@@ -1,23 +1,23 @@
-### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif) 
-### Hi there 👋. 
-### I am Harman Kibue, a backend engineer mainly interested in Golang(Gin) and python(Django/ Django Rest) and some dev-ops automation(learning by failing).I am based in Nairobi kenya.
-### I am more than willing to collaborate in any open source project or any idea that changes the world one line of code at a time.
-## I run [The Concurrency Podcast](https://podcasts.apple.com/ke/podcast/the-concurrency-podcast/id1667231096) and also write about golang and how I use it's features and libraries in my day to day software development.Lets link up.
-## [Linkedin](www.linkedin.com/in/harman-kibue)
-## [Twitter](https://twitter.com/harmannkibue)
+### 👋 Hi, I'm Harman Kibue
 
+Founder at AfriqSilicon • Backend & Systems Engineer
 
-<!--
-**harmannkibue/harmannkibue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable backend systems, AI-powered applications, and production infrastructure.
 
-Here are some ideas to get you started:
+### 🚀 What I focus on
+- Backend engineering with Go (Gin) & Python (Django/DRF)
+- AI integrations & workflow automation
+- Cloud infrastructure, Docker, and system reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current direction
+Exploring AI systems, distributed architecture, and secure infrastructure.
+
+### 🎙️ Content
+I host the Concurrency Podcast where I discuss backend systems, Go, and real-world engineering challenges.
+
+### 🤝 Collaboration
+Open to working on high-impact systems, AI tools, and infrastructure-heavy projects.
+
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/harman-kibue  
+- Twitter: https://twitter.com/harmannkibue
