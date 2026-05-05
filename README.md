@@ -1,3 +1,5 @@
+### ![](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif)
+
 ### 👋 Hi, I'm Harman Kibue
 
 Founder at AfriqSilicon • Backend, Systems & Security Engineer
