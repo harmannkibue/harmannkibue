@@ -26,6 +26,6 @@ I host *The Concurrency Podcast*, where I talk about backend systems, Go, and re
 ### 🤝 Collaboration
 Open to working on high-impact systems, AI tools, and infrastructure-heavy products.
 
-### 🔗 Connect
+### 🔗 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/harman-kibue  
 - Twitter: https://twitter.com/harmannkibue
